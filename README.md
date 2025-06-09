@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poopartist!
-- 🌱 I’m currently learning on how to make GitHub repos and made my first program (you need a Python program or compiled C++ program (included))
+- 🌱 I’m currently learning on how to make GitHub repos and made my first program (you need Python for it to work or compile the C++ program which are included)
 - 💞️ I’m looking to collaborate on my fav YouTuber, ThioJoe (Prob i'm not going to even catch his attention but anyways)
 - 📫 How to reach me: | Discord: galaxy_air | E-mail: githubpoopartistemail@gmail.com | YouTube: Windows10doesntgrowontrees |
 - 😄 Pronouns: he/his/him/they
